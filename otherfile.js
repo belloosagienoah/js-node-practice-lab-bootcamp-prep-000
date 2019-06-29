@@ -1,1 +1,1 @@
-var index = re 
+var index = require() 
