@@ -1,3 +1,3 @@
 var index = require(./index.js);
 
-mod
+con
