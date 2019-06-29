@@ -8,4 +8,4 @@ console.log(name)
 
 console.log("Height:")
 console.log(parseInt(height) + 1)
-module.exports = 
+module.exports = {}
