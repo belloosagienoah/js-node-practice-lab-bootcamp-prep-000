@@ -9,6 +9,7 @@ console.log(name)
 console.log("Height:")
 console.log(parseInt(height) + 1)
 module.exports = {
-  name, height
+  name,
+  height
 
 }
